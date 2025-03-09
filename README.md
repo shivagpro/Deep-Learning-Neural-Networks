@@ -38,7 +38,7 @@ The dataset (`Churn_Modelling.csv`) contains 10,000 customer records with the fo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ANN-Churn-Prediction.git
+   git clone https://github.com/SHIVITG/ANN-Churn-Prediction.git
    cd ANN-Churn-Prediction
    ```
 
