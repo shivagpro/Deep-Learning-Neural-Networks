@@ -5,7 +5,7 @@ This repository demonstrates how to implement an Artificial Neural Network (ANN)
 ## 📂 Project Structure
 
 ```
-/workspaces/ANN-Churn-Prediction/
+ANN-Churn-Prediction/
 │-- app.py                                  # Flask app for deployment (if applicable)
 │-- Churn_Modelling.csv                     # Dataset for training and testing
 │-- Customer Churn Training using ANN.ipynb # Jupyter Notebook for training
@@ -38,7 +38,7 @@ The dataset (`Churn_Modelling.csv`) contains 10,000 customer records with the fo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SHIVITG/ANN-Churn-Prediction.git
+   git clone https://github.com/SHIVITG/Deep-Learning-Neural-Networks.git
    cd ANN-Churn-Prediction
    ```
 
