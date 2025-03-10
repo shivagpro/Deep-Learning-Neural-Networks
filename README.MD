@@ -1,6 +1,3 @@
-Here’s a more engaging version of your `README.md` that highlights the directory structure and adds a more exciting tone:
-
----
 
 # Deep Learning & Neural Networks Projects 🚀
 
